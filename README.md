@@ -1,6 +1,6 @@
-## Boas vindas ao meu perfil 👋
+Boas vindas ao meu perfil 👋
 
-##Meu nome é Victor Hugo 
+Meu nome é Victor Hugo 
 
 - Estou estudando na [Alura]
 -
